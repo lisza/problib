@@ -2,9 +2,12 @@
 
 <!-- [![PyPI version](https://img.shields.io/pypi/v/problib.svg)](https://pypi.python.org/pypi/problib) -->
 <!-- ![Supported Python versions](https://img.shields.io/pypi/pyversions/problib.svg) -->
-<!-- ![License](https://img.shields.io/pypi/l/problib.svg) -->
 
-Small library to calculate and plot probabilities for Gaussian and Binomial distributions.
+![GitHub license](https://img.shields.io/github/license/lisza/problib)
+
+Small Python library to calculate and plot probabilities for Gaussian and Binomial distributions.
+
+Note that this is a test Python package, it works fine but has some issues and solves no new problem. You can totally give it a try though!
 
 
 ## Installation
@@ -51,7 +54,7 @@ Plot normalized histogram of data and probability density function (requires loa
 ```
 gaussian.plot_histogram_pdf()
 ```
-![gaussian_pdf_plot](https://github.com/lisza/problib/blob/master/gauss_histrogram_pdf_plot.png)
+![gaussian_pdf_plot](https://github.com/lisza/problib/blob/master/gauss_histogram_pdf_plot.png)
 
 
 #### Binomial
